@@ -9,7 +9,8 @@ tags: ['update']
 
 This is my very first post. All of this is written using Markdown.
 
-![jellyfish]({{ <ref "cool-jellyfish.jpg" >}})
+![jellyfish](/cool-jellyfish.jpg)
+<img src = "/cool-jellyfish.jpg">
 
 [second-post]({{< ref "second-post.md" >}})
 
