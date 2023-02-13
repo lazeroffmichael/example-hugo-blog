@@ -1,10 +1,3 @@
----
-title: Getting Started With Hugo
-date: Saturday 02-11-2023
-type: blog
-tags:
-aliases:
----
 # 📚 Getting Started With Hugo
 
 Author: Michael Lazeroff
