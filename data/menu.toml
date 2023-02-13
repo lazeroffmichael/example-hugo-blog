@@ -1,0 +1,28 @@
+[[entries]]
+title = "Layer Zero Blog"
+
+  [[entries.entries]]
+  title = "A quick introduction to making a simple-static blog with Hugo"
+
+  [[entries.entries]]
+  title = "Our Website - layer-zero.org"
+  url = "https://layer-zero.org"
+
+
+[[entries]]
+title = "all posts"
+
+  [entries.post_list]
+  limit = 5
+  show_more = true
+  show_more_text = "See archive..."
+  show_more_url = "posts"
+
+[[entries]]
+title = "posts by category"
+
+  [entries.post_list]
+  section = "posts"
+  show_more = true
+  show_more_text = "See more posts..."
+  show_more_url = "posts"
