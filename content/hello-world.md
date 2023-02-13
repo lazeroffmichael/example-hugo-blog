@@ -13,4 +13,3 @@ This is my very first post. All of this is written using Markdown.
 
 [second-post]({{< ref "second-post.md" >}})
 
-
