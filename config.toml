@@ -1,0 +1,4 @@
+baseURL = 'https://lazeroffmichael.github.io/example-hugo-blog/'
+languageCode = 'en-us'
+title = 'Hugo With Layer Zero'
+theme = 'nostyleplease'
